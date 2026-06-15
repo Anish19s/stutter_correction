@@ -9,7 +9,7 @@ Features
 - Natural speech synthesis using Edge TTS
 
 ## Tech Stack
--Whisper (OpenAI) – Automatic Speech Recognition
+- Whisper (OpenAI) – Automatic Speech Recognition
 - Gemini LLM API – Text correction & disfluency removal
 - Edge TTS – Neural Text-to-Speech synthesis
 - PyTorch / torchaudio – Audio processing
