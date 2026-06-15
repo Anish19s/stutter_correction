@@ -1,0 +1,6 @@
+transformers
+torchaudio
+asyncio
+edge_tts
+indic_transliteration
+google-genai
